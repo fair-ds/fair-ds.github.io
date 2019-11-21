@@ -1,2 +1,1 @@
-# fair-ds.github.io
-Central Repository of FAIR-DS Project.
+Please visit https://fair-ds.github.io
